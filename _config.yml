@@ -1,0 +1,26 @@
+title: Mauro Leonelli
+description: Mauro Leonelli - my personal webspace about natural and coding languages, translation, localization and online courses.
+
+url: http://mauroleonelli.com
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: kramdown
+highlighter: rouge
+gems: [jekyll-paginate]
+paginate: 5
+
+navigation:
+ - title: Home
+   url: /index.html
+ - title: About
+   url: /about
+ - title: Contact
+   url: /contact
+
+social:
+   github: mleonelli
+   twitter: mleonelli
+   linkedin: 6014713
+   email: mleonellie@gmail.com
