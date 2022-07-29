@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: [https://www.coursera.org](https://www.credly.com/badges/b9b913bb-bdc6-4e3f-b87c-a361aa6ad455?source=linked_in_profile)
+  - certificate_url: https://www.credly.com/badges/b9b913bb-bdc6-4e3f-b87c-a361aa6ad455?source=linked_in_profile
     date_end: ''
     date_start: '2021-11-01'
     description: ''
