@@ -41,7 +41,7 @@ content:
 #  office_hours:
 #    - 'Monday 10:00 to 13:00'
 #    - 'Wednesday 09:00 to 10:00'
-  appointment_url: '[https://calendly.com](https://calendly.com/mauro-leonelli/30min)'
+  appointment_url: 'https://calendly.com/mauro-leonelli/30min'
 #  contact_links:
 #    - icon: twitter
 #      icon_pack: fab
