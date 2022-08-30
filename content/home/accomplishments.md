@@ -23,15 +23,42 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.credly.com/badges/b9b913bb-bdc6-4e3f-b87c-a361aa6ad455?source=linked_in_profile
+  - certificate_url: https://www.credly.com/badges/b9b913bb-bdc6-4e3f-b87c-a361aa6ad455
     date_end: ''
     date_start: '2021-11-01'
     description: ''
     organization: Google
-    organization_url: https://www.coursera.org
-    title: Google Data Analystic Certificate
+    organization_url: https://www.coursera.com
+    title: Google Data Analytics Certificate
     url: ''
-
+item:
+  - certificate_url: https://www.credly.com/badges/3890d8ba-eca8-4337-aa23-a1c10f88a296
+    date_end: ''
+    date_start: '2020-12-01'
+    description: ''
+    organization: Scrum
+    organization_url: https://www.scrum.org
+    title: Professional Scrum Product Owner™ I (PSPO I)
+    url: ''
+item:
+  - certificate_url: https://www.scrum.org/certificates/565088
+    date_end: ''
+    date_start: '2020-08-01'
+    description: ''
+    organization: Scrum
+    organization_url: https://www.scrum.org
+    title: Professional Scrum Master (PSM I)
+    url: ''
+ item:
+  - certificate_url: https://www.coursera.org/account/accomplishments/specialization/9L463338VM85
+    date_end: ''
+    date_start: '2015-06-01'
+    description: ''
+    organization: Scrum
+    organization_url: https://www.scrum.org
+    title: Data Science Specialization (Johns Hopkins University)
+    url: ''   
+    
 
 design:
   columns: '2'
