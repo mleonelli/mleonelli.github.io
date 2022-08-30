@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
+  theme_day: strawberry
+  theme_night: dark
   font: minimal
-  font_size: L
+  font_size: M
 
 # SEO
 
@@ -17,9 +17,9 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    org_name: 'mauroleonelli.com'
+    description: 'Mauro Leonelli is Product Manager at Amadeus'
+    twitter: 'mleonelli'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
