@@ -33,30 +33,7 @@ experience:
         Responsible for the coordination of Airline Disruption products from inception, development (~50 engineers) to deployment. Direct contact with the whole community of airlines (140+ clients).
         
         Organization and animation of the bi-annual user group meetings with airline customers from all over the world, running regular project status meetings with Airline Champions and program budget reporting to internal steering committee (~$2M/year).
-experience:
-  - title: IT Manager
-    company: Silversea Cruises
-    company_url: 'silversea.com'
-#    company_logo: org-gc
-    location: Monaco
-    date_start: '2011-01-01'
-    date_end: '2018-09-30'
-    description: |2-
-      Manager of Reservation Ecosystem.
-      Cutting-edge web-based reservation system maintained (AngularJS, Socket.io, C# RESTful Web Services, SQL Server 2012, MongoDB, Node.js and counting...).
-      Team management (10+ engineers) and budget management (~$1M/year)
- experience:
-  - title: .NET Senior Developer / Scrum Master
-    company: Reply
-    company_url: 'reply.com'
-#    company_logo: org-gc
-    location: Turin
-    date_start: '2007-01-01'
-    date_end: '2010-12-31'
-    description: |2-
-      Senior developer and Scrum master for an intrapreneurship endeavor aimed at the creation of a Private Cloud platform using XEN and VMWare. 
-      Responsible for front-end development in ASP.NET MVC 4 / jQuery and back-end functionalities offered via WCF services.
-      Business plan drafting, technology scouting and management of the development team with Agile methodologies.
+
            
 design:
   columns: '2'
