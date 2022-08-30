@@ -1,6 +1,6 @@
 ---
 role: Product Manager
-bio: I'm a Product Manager with a passion for code. 10+ years experience in the Travel business.
+bio: Mauro Leonelli is a Product Manager with a passion for code and over 10 years experience in the Travel business.
 interests:
   - Data Science, data analysis and visualization
   - Innovation & Entrepreneurship
@@ -35,7 +35,7 @@ highlight_name: true
 title: Mauro Leonelli
 email: "mauro.leonelli.pm@gmail.com"
 ---
-
+Mauro Leonelli is a Product Manager with a passion for code and over 10 years experience in the Travel business.
 
 
 
