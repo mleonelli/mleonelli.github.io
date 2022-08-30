@@ -10,9 +10,9 @@ main:
   - name: Posts
     url: '#posts'
     weight: 20
-#  - name: Projects
-#    url: '#projects'
-#    weight: 30
+  - name: Projects
+    url: '#projects'
+    weight: 30
 #  - name: Talks
 #    url: '#talks'
 #    weight: 40
@@ -21,10 +21,10 @@ main:
 #    weight: 50
   - name: Contact
     url: '#contact'
-    weight: 60
+    weight: 40
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-#  - name: CV
-#    url: uploads/resume.pdf
-#    weight: 70
+  - name: Curriculum Vitae
+    url: uploads/mleonelli.pdf
+    weight: 50
