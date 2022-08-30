@@ -40,4 +40,4 @@ Mauro Leonelli is a Product Manager with a passion for code and over 10 years ex
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/mleonelli.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/leonelli_mauro.pdf" "newtab" >}}resumé{{< /staticref >}}.
