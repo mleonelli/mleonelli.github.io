@@ -36,8 +36,6 @@ title: Mauro Leonelli
 email: "mauro.leonelli.pm@gmail.com"
 ---
 
-Mauro Leonelli is a Product Manager at Amadeus. 
-
 
 
 
