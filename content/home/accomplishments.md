@@ -31,33 +31,7 @@ item:
     organization_url: https://www.coursera.com
     title: Google Data Analytics Certificate
     url: ''
-item:
-  - certificate_url: https://www.credly.com/badges/3890d8ba-eca8-4337-aa23-a1c10f88a296
-    date_end: ''
-    date_start: '2020-12-01'
-    description: ''
-    organization: Scrum
-    organization_url: https://www.scrum.org
-    title: Professional Scrum Product Owner I (PSPO I)
-    url: ''
-item:
-  - certificate_url: https://www.scrum.org/certificates/565088
-    date_end: ''
-    date_start: '2020-08-01'
-    description: ''
-    organization: Scrum
-    organization_url: https://www.scrum.org
-    title: Professional Scrum Master (PSM I)
-    url: ''
- item:
-  - certificate_url: https://www.coursera.org/account/accomplishments/specialization/9L463338VM85
-    date_end: ''
-    date_start: '2015-06-01'
-    description: ''
-    organization: Scrum
-    organization_url: https://www.scrum.org
-    title: Data Science Specialization (Johns Hopkins University)
-    url: ''   
+
     
 
 design:
