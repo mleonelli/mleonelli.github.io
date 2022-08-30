@@ -1,8 +1,10 @@
 ---
 role: Product Manager
-bio: I'm a Product Manager with a passion for code.
+bio: I'm a Product Manager with a passion for code. 10+ years experience in the Travel business.
 interests:
-  - Data analysis and visualization
+  - Data Science, data analysis and visualization
+  - Innovation & Entrepreneurship
+  - Languages & Online learning
   - Travel
 social:
   - icon: envelope
@@ -22,16 +24,16 @@ education:
     - course: Executive MBA
       institution: Quantic University
       year: 2018
-    - course: MEng in Telecommunications
+    - course: M.Eng in Telecommunications
       institution: Politecnico di Torino / EURECOM
       year: 2007
-    - course: BSc in Electronics
+    - course: B.Eng in Electronics
       institution: Politecnico di Torino
       year: 2004
 superuser: true
 highlight_name: true
 title: Mauro Leonelli
-email: ""
+email: "mauro.leonelli.pm@gmail.com"
 ---
 
 Mauro Leonelli is a Product Manager at Amadeus. 
