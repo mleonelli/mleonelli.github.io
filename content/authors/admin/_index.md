@@ -33,7 +33,7 @@ education:
 superuser: true
 highlight_name: true
 title: Mauro Leonelli
-email: "mauro.leonelli.pm@gmail.com"
+email: "mleonelli@gmail.com"
 ---
 Mauro Leonelli is a Product Manager with a passion for code and over 10 years experience in the Travel business.
 
