@@ -38,7 +38,7 @@ item:
     description: ''
     organization: Scrum
     organization_url: https://www.scrum.org
-    title: Professional Scrum Product Owner™ I (PSPO I)
+    title: Professional Scrum Product Owner I (PSPO I)
     url: ''
 item:
   - certificate_url: https://www.scrum.org/certificates/565088
