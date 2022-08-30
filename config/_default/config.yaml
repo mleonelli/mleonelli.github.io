@@ -70,5 +70,3 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
-theme_day: strawberry
-theme_night: dark
