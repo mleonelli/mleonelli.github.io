@@ -80,7 +80,7 @@ features:
     provider: 'disqus'
     disqus:
       shortname: 'mauroleonelli'
-      show_count: true
+      show_count: false
     commento:
       url: ''
   search:
