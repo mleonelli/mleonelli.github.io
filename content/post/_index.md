@@ -1,7 +1,10 @@
 ---
 title: Posts
 cms_exclude: true
-
+cascade:
+  commentable: true
+  show_related: true
+  
 # View.
 #   1 = List
 #   2 = Compact
