@@ -5,6 +5,7 @@ draft: false
 featured: true
 tags:
   - MRTD
+commentable: true
 image:
   filename: passport.jpg
   focal_point: Smart
