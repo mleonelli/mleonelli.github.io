@@ -14,7 +14,7 @@ abstract: Automotive industry is moving towards a new, highly-scalable and
   analyzed the limit of a pure centralized approach and a solution is found in
   the dynamic installation of the self-healing module on diﬀerent platforms in
   the network, based on a leader election algorithm.
-draft: true
+draft: false
 featured: true
 image:
   filename: featured
