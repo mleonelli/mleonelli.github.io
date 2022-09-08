@@ -1,7 +1,7 @@
 ---
 title: Self-healing of component based vehicle software
 publication_types:
-  - "0"
+  - "7"
 authors:
   - MauroLeonelli
 abstract: Automotive industry is moving towards a new, highly-scalable and
