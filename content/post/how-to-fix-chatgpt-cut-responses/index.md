@@ -3,7 +3,8 @@ title: How to fix ChatGPT cut responses
 date: 2023-02-28T15:51:26.111Z
 draft: false
 featured: true
-authors: []
+authors:
+  - Mauro Leonelli
 tags:
   - ChatGPT
 image:
