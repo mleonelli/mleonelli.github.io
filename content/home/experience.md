@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Product Manager / Product Owner
     company: Amadeus
-    company_url: 'amadeus.com'
+    company_url: 'https://www.amadeus.com'
 #    company_logo: org-gc
     location: Nice (France)
     date_start: '2018-10-01'
@@ -35,7 +35,7 @@ experience:
         Organization and animation of the bi-annual user group meetings with airline customers from all over the world, running regular project status meetings with Airline Champions and program budget reporting to internal steering committee (~$2M/year).
   - title: IT Manager
     company: Silversea Cruises
-    company_url: 'silversea.com'
+    company_url: 'https://www.silversea.com'
 #    company_logo: org-gc
     location: Monaco
     date_start: '2011-01-01'
@@ -47,7 +47,7 @@ experience:
 
   - title: .NET Senior Developer / Scrum Master
     company: Reply
-    company_url: 'reply.com'
+    company_url: 'https://www.reply.com'
 #    company_logo: org-gc
     location: Turin (Italy)
     date_start: '2007-01-01'
