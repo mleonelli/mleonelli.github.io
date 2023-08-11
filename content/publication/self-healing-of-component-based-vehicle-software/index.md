@@ -32,3 +32,4 @@ summary: Automotive industry is moving towards a new, highly-scalable and
   the network, based on a leader election algorithm.
 date: 2022-09-08T12:54:03.998Z
 ---
+<https://www.tesionline.it/tesi/ingegneria/self-healing-of-component-based-vehicle-software/16366>
