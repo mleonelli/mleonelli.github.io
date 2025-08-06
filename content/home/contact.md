@@ -40,7 +40,7 @@ content:
   directions: Building Africa and Middle East - Floor 2
   office_hours:
     - 'Tuesday 09:00 to 17:00'
-  appointment_url: 'https://calendly.com/mauro-leonelli/30min'
+  appointment_url: 'https://outlook.office.com/bookwithme/user/7efcb63911ab4ac1b3638c1013da3fdc%40amadeus.com?anonymous&ismsaljsauthenabled=true'
 #  contact_links:
 #    - icon: twitter
 #      icon_pack: fab
