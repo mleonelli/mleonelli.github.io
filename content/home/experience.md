@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Product Manager / Product Owner
+  - title: Senior Product Manager
     company: Amadeus
     company_url: 'https://www.amadeus.com'
 #    company_logo: org-gc
