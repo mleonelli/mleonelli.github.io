@@ -79,13 +79,15 @@
             "imageUrl": "portfolio/garmin-daystoxmas.png",
             "title": "Garmin Data Field - Days To Xmas",
             "type": "Project",
-            "link": "https://github.com/mleonelli/ConnectIQ-DaysToXmas"
+            "link": "https://github.com/mleonelli/ConnectIQ-DaysToXmas",
+            "details": "Days to Xmas Garmin Data Field. Out for a jog? Push yourself further knowing how many days are left before Christmas and family dinners! You'll run harder!"
         },
         {
             "imageUrl": "portfolio/myamiibo.png",
             "title": "My Amiibo Tracker",
             "type": "Project",
-            "link": "https://myamiibotracker.netlify.app/"
+            "link": "https://myamiibotracker.netlify.app/",
+            "details": "A vibe-coding created app to track Amiibo collection with no back-end"
         }
     ],
     "publications": [

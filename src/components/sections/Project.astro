@@ -2,8 +2,8 @@
 const { imageUrl, title, type, link, details } = Astro.props;
 ---
 
-<a href=`{link}` target="_blank" rel="noopener noreferrer">
-    <div class="relative overflow-hidden rounded-lg cursor-pointer h-64 group">
+<a href=`${link}` target="_blank" rel="noopener noreferrer" class="flex flex-col">
+    <div class="relative overflow-hidden rounded-lg cursor-pointer h-40 group">
         <div 
             class="absolute inset-0 bg-cover transition-transform duration-700 group-hover:scale-110" 
             style={`background-image: url('${imageUrl}');`}>
@@ -15,5 +15,8 @@ const { imageUrl, title, type, link, details } = Astro.props;
             <h2 class="mt-4 text-xl font-semibold text-white">{title}</h2>
             <p class="mt-2 text-lg font-bold tracking-wider text-primary uppercase">{link}</p>
         </div>
+    </div>
+    <div class="mt-3 px-2 py-2 text-sm text-gray-600 dark:text-gray-400">
+        {details && <p>{details}</p>}
     </div>
 </a>
