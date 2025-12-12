@@ -1,0 +1,18 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import NotesList from '../../sections/notes/NotesList.astro';
+import Pagination from '../../common/Pagination.astro';
+import type { Page } from "astro";
+import type { CollectionEntry } from "astro:content";
+
+export interface Props {
+  page: Page<CollectionEntry<"notes">>;
+}
+
+const { page } = Astro.props;
+---
+
+<Layout title="Notes">
+  <NotesList notes={page?.data || []} />
+  <Pagination page={page} />
+</Layout>

@@ -1,0 +1,27 @@
+---
+import Publication from '../Publication.astro';
+import { publications } from '../../../config/cv.json';
+---
+
+<section class="bg-background">
+    <div class="container px-6 py-8 mx-auto">
+        <h1 class="text-3xl font-semibold text-center capitalize lg:text-4xl">
+            Publications
+        </h1>
+
+        <p class="mt-4 text-center text-offset">
+            .
+        </p>
+
+        <div class="grid grid-cols-1 gap-8 mt-8 xl:mt-12 xl:gap-12 md:grid-cols-2 xl:grid-cols-3">
+            {publications.map(publication => (
+                <Publication
+                    title={publication.title}
+                    type={publication.type}
+                    link={publication.link}
+                    details={publication.details}
+                />
+            ))}
+        </div>
+    </div>
+</section>

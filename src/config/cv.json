@@ -1,0 +1,127 @@
+{
+    "basic": {
+        "name": "Mauro Leonelli",
+        "job": "PRODUCT STRATEGY - BUILDER MINDSET",
+        "summary": "Building systems where strategy & code ship together.",
+        "cv_file_name": "mauroleonelli_cv.pdf"
+    },
+    "experiences": [
+        {
+            "title": "Senior Product Manager",
+            "sub_title": "Amadeus IT Group",
+            "sub_title_url": "https://www.amadeus.com",
+            "country": "France",
+            "years": "2023 - Present",
+            "details": ""
+        },
+        {
+            "title": "Business Analyst",
+            "sub_title": "Amadeus IT Group",
+            "sub_title_url": "https://www.amadeus.com",
+            "country": "France",
+            "years": "2008 - 2023",
+            "details": ""
+        },
+        {
+            "title": "Information Technology Manager",
+            "sub_title": "Silversea Cruises",
+            "sub_title_url": "https://www.silversea.com",
+            "country": "Monaco",
+            "years": "2011 - 2018",
+            "details": ""
+        },
+        {
+            "title": "Software Engineer",
+            "sub_title": "Reply",
+            "sub_title_url": "https://www.reply.it",
+            "country": "Italy",
+            "years": "2007 - 2011",
+            "details": ""
+        }
+
+    ],
+    "education": [
+        {
+            "title": "Executive Master of Business Administration",
+            "sub_title": "Quantic School of Business and Technology",
+            "sub_title_url": "https://www.quantic.com",
+            "country": "United States of America",
+            "years": "2017 - 2018",
+            "details": ""
+        },
+        {
+            "title": "MSc Telecommunicatiosn",
+            "sub_title": "Politecnico di Torino",
+            "sub_title_url": "https://www.polito.it",
+            "country": "Italy",
+            "years": "2004 - 2007",
+            "details": "Graduated with honors."
+        },
+        {
+            "title": "MSc Telecommunications",
+            "sub_title": "EURECOM Institute",
+            "sub_title_url": "https://www.eurecom.fr",
+            "country": "France",
+            "years": "2005 - 2006",
+            "details": "One year exchange program at the Eurecom Institute, Sophia Antipolis, France."
+        },
+        {
+            "title": "BSc Electronics",
+            "sub_title": "Politecnico di Torino",
+            "sub_title_url": "https://www.polito.it",
+            "country": "Italy",
+            "years": "2001 - 2004",
+            "details": "Graduated with honors. Activities and societies: Part-time job as Electronics and Physics Lab AssistantActivities and societies: Part-time job as Electronics and Physics Lab Assistant. Total tax reduction awarded each year for excellent results."
+        }
+    ],
+    "projects": [
+        {
+            "imageUrl": "portfolio/garmin-daystoxmas.png",
+            "title": "Garmin Data Field - Days To Xmas",
+            "type": "Project",
+            "link": "https://github.com/mleonelli/ConnectIQ-DaysToXmas"
+        },
+        {
+            "imageUrl": "portfolio/myamiibo.png",
+            "title": "My Amiibo Tracker",
+            "type": "Project",
+            "link": "https://myamiibotracker.netlify.app/"
+        }
+    ],
+    "publications": [
+        {
+            "imageUrl": "",
+            "title": "My Amiibo Tracker",
+            "type": "Project",
+            "link": "https://myamiibotracker.netlify.app/"
+        }
+    ],
+    "menuItems": [
+        {
+            "name": "About",
+            "link": "/"
+        },
+        {
+            "name": "Blog",
+            "link": "/blogs"
+        },
+        {
+            "name": "Projects",
+            "link": "/#projects"
+        },
+        {
+            "name": "Notes",
+            "link": "/notes"
+        }
+    ],
+    "socialLinks": [
+        {
+            "iconName": "Github",
+            "link": "https://github.com/mleonelli"
+        },
+        {
+            "iconName": "Linkedin",
+            "link": "https://www.linkedin.com/in/mleonelli/"
+        }
+    ]
+}
