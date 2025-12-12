@@ -12,7 +12,7 @@
             "sub_title_url": "https://www.amadeus.com",
             "country": "France",
             "years": "2023 - Present",
-            "details": ""
+            "details": "Responsible for product development in passenger disruption suite.  Representing the voice of the customer with direct contact with airline operative and C-level representatives. Coach teams of product owners, user experience researchers/designers, and engineers to deliver incremental value towards a shared vision for the solution"
         },
         {
             "title": "Business Analyst",
@@ -20,7 +20,7 @@
             "sub_title_url": "https://www.amadeus.com",
             "country": "France",
             "years": "2008 - 2023",
-            "details": ""
+            "details": "Project planning, organization, lead and control with budget and schedule responsibilities. Capturing future customer needs and translating them into actionable features for R&D teams."
         },
         {
             "title": "Information Technology Manager",
@@ -28,7 +28,7 @@
             "sub_title_url": "https://www.silversea.com",
             "country": "Monaco",
             "years": "2011 - 2018",
-            "details": ""
+            "details": "Manager of Silversea's reservation ecosystem. Cutting-edge web based reservation system maintained with passion by a team of 6 ( AngularJS, Socket.io, C# RESTful WebServices, SQL Server 2012, MongoDB, Node.js and counting...)"
         },
         {
             "title": "Software Engineer",
@@ -36,7 +36,7 @@
             "sub_title_url": "https://www.reply.it",
             "country": "Italy",
             "years": "2007 - 2011",
-            "details": ""
+            "details": "Senior Software Engineer for a Private Cloud Computing platform (.NET 4.0, ASP.NET MVC, VS2010, SQL Server 2008, SS2008 Service Broker, jQuery) when cloud computing was not yet a thing."
         }
 
     ],
@@ -91,9 +91,10 @@
     "publications": [
         {
             "imageUrl": "",
-            "title": "My Amiibo Tracker",
-            "type": "Project",
-            "link": "https://myamiibotracker.netlify.app/"
+            "title": "AI-Enhanced Visa Eligibility Prediction and Risk-Based Travel Rebooking Optimization",
+            "type": "Defensive publication",
+            "link": "https://www.researchdisclosure.com/database/RD737033",
+            "abstract": "This disclosure concerns the use of artificial intelligence to dynamically assess individual traveler document requirements (passports, visas, ...) and optimize rebooking decisions in airline disruption scenarios."
         }
     ],
     "menuItems": [
@@ -121,7 +122,7 @@
         },
         {
             "iconName": "Linkedin",
-            "link": "https://www.linkedin.com/in/mleonelli/"
+            "link": "https://www.linkedin.com/in/mauroleonelli/"
         }
     ]
 }
