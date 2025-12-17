@@ -1,0 +1,112 @@
+# 🧩 Regular Expressions (Regex) Cheatsheet
+
+A concise, one-page reference for the most common regex tokens and patterns.
+
+---
+
+## 🔤 Literals & Escaping
+| Pattern | Meaning |
+|-------|--------|
+| `abc` | Matches literal `abc` |
+| `\.`  | Escaped dot (matches `.`) |
+| `\\`  | Escaped backslash |
+| `\n`  | New line |
+| `\t`  | Tab |
+
+---
+
+## 🎯 Character Classes
+| Pattern | Meaning |
+|-------|--------|
+| `.` | Any character except newline |
+| `\d` | Digit `[0-9]` |
+| `\D` | Non-digit |
+| `\w` | Word character `[A-Za-z0-9_]` |
+| `\W` | Non-word character |
+| `\s` | Whitespace |
+| `\S` | Non-whitespace |
+| `[abc]` | Any of `a`, `b`, or `c` |
+| `[^abc]` | Not `a`, `b`, or `c` |
+| `[a-z]` | Range from `a` to `z` |
+
+---
+
+## 📍 Anchors (Position)
+| Pattern | Meaning |
+|-------|--------|
+| `^` | Start of string |
+| `$` | End of string |
+| `\b` | Word boundary |
+| `\B` | Non-word boundary |
+| `\A` | Start of input (some engines) |
+| `\Z` | End of input (some engines) |
+
+---
+
+## 🔁 Quantifiers
+| Pattern | Meaning |
+|-------|--------|
+| `*` | 0 or more |
+| `+` | 1 or more |
+| `?` | 0 or 1 |
+| `{n}` | Exactly `n` times |
+| `{n,}` | At least `n` times |
+| `{n,m}` | Between `n` and `m` times |
+| `*?` `+?` `??` | Lazy (non-greedy) versions |
+
+---
+
+## 🔗 Grouping & Alternation
+| Pattern | Meaning |
+|-------|--------|
+| `(abc)` | Capturing group |
+| `(?:abc)` | Non-capturing group |
+| `(?<name>abc)` | Named capturing group |
+| `a|b` | Alternation (OR) |
+| `\1` | Backreference to group 1 |
+| `\k<name>` | Backreference to named group |
+
+---
+
+## 🔍 Lookarounds (Zero-width Assertions)
+| Pattern | Meaning |
+|-------|--------|
+| `(?=abc)` | Positive lookahead |
+| `(?!abc)` | Negative lookahead |
+| `(?<=abc)` | Positive lookbehind |
+| `(?<!abc)` | Negative lookbehind |
+
+---
+
+## 🧠 Flags / Modifiers
+| Flag | Meaning |
+|----|--------|
+| `i` | Case-insensitive |
+| `g` | Global search |
+| `m` | Multiline (`^` and `$`) |
+| `s` | Dot matches newline |
+| `u` | Unicode |
+| `x` | Ignore whitespace/comments |
+
+---
+
+## 🧪 Common Patterns
+| Use Case | Pattern |
+|--------|--------|
+| Email | `^[\w.-]+@[\w.-]+\.\w+$` |
+| URL | `https?:\/\/[\w.-]+` |
+| IPv4 | `\b(?:\d{1,3}\.){3}\d{1,3}\b` |
+| Date (YYYY-MM-DD) | `\d{4}-\d{2}-\d{2}` |
+| HTML tag | `<[^>]+>` |
+
+---
+
+## 🛠️ Tips
+- Prefer **specific patterns** over `.*`
+- Use **lazy quantifiers** to avoid overmatching
+- Test regex with tools like **regex101.com**
+- Remember: regex engines differ (PCRE, JS, Python)
+
+---
+
+📌 **Regex is powerful—but readability matters. Comment complex patterns
