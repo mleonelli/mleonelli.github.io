@@ -10,7 +10,7 @@ const blogsCollection = defineCollection({
 
 });
 
-const notes = defineCollection({
+const notesCollection = defineCollection({
   schema: z.object({
     title: z.string(),
     description: z.string(),
