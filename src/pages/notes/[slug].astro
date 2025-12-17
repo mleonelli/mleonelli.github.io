@@ -6,7 +6,7 @@ import Layout from '../../layouts/Layout.astro';
 
 export const getStaticPaths = async () => {
     const notes = await getCollection("notes");
-    const paths = notes.map(note => {
+    const paths = notes. map(note => {
         return {
             params: {
                 slug: note.slug
