@@ -88,6 +88,13 @@
             "type": "Project",
             "link": "https://myamiibotracker.netlify.app/",
             "details": "A vibe-coding created app to track Amiibo collection with no back-end"
+        },
+        {
+            "imageUrl": "portfolio/faba-hacks.png",
+            "title": "Faba hacks - Javascript",
+            "type": "Project",
+            "link": "https://rednblue.github.io/myfaba-hacks/",
+            "details": "A simple one-page application to manage your Faba box"
         }
     ],
     "publications": [
