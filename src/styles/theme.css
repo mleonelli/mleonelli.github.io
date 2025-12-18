@@ -17,3 +17,18 @@
     --color-background-offset: theme("colors.gray.800");
     --color-border: theme("colors.gray.50" / 10%);
 }
+
+/* Prevent horizontal overflow for markdown content (code blocks, tables) */
+#markdown pre,
+#markdown table,
+#markdown code {
+    max-width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    word-break: break-word;
+    white-space: pre-wrap;
+}
+#markdown table {
+    display: block;
+    width: 100%;
+}

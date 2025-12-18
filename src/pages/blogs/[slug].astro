@@ -30,10 +30,12 @@ const {Content} = await blog.render();
 
 <Layout title={blog.data.title}>
     <section class="flex justify-center mt-12">
-        <div id="markdown" class="prose prose-lg overflow-visible relative mb-5">
+        <div id="markdown" class="prose prose-lg max-w-full px-4 sm:px-0 relative mb-5">
             <Content />
         </div>
     </section>
+
+    <!-- markdown overflow styles moved to src/styles/theme.css -->
 
     <script>
         import { toggleMarkdownTheme } from "../../scripts/theme";
