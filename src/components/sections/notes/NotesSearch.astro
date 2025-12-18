@@ -1,11 +1,11 @@
 ---
-import type { Note } from '../../../types/NoteType';
+import type { CollectionEntry } from 'astro:content';
 
 interface Props {
-  notes: Note[];
+  notes: CollectionEntry<'notes'>[];
 }
 
-const { notes } = Astro.props;
+const { notes } = Astro.props as Props;
 
 // Extract unique types and tags from notes
 const types = Array.from(new Set(notes.map(n => n.data.type).filter(Boolean))) as string[];
@@ -54,7 +54,7 @@ const tags = Array.from(new Set(notes.flatMap(n => n.data.tags || [])));
     </div>
 
     <div id="notes-container" class="space-y-6">
-      {notes.map((note: Note, index: number) => (
+      {notes.map((note: CollectionEntry<'notes'>, index: number) => (
         <div 
           class="note-item transition-all duration-300"
           data-type={note.data.type || 'all'}
