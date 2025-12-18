@@ -15,8 +15,8 @@ const notesCollection = defineCollection({
     title: z.string(),
     description: z.string(),
     datetime: z.string().or(z.date()),
-    // Optional: add type field if you want to differentiate note types
-    type: z.enum(['technical', 'personal', 'learning']).optional(),
+    type: z.enum(['technical', 'personal', 'learning', 'linkedin']).optional(),
+    tags: z.array(z.string()).optional(),
   }),
 });
 

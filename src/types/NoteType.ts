@@ -7,5 +7,7 @@ export interface Note {
         description: string;
         datetime: string;
         image?: string;
+        type?: string;
+        tags?: string[];
     }
 }

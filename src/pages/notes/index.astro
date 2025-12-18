@@ -1,0 +1,14 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import NotesSearch from '../../components/sections/notes/NotesSearch.astro';
+
+const notes = await getCollection("notes");
+const sortedNotes = notes.sort((a, b) =>
+    new Date(b.data.datetime).getTime() - new Date(a.data.datetime).getTime()
+);
+---
+
+<Layout title="Notes">
+    <NotesSearch notes={sortedNotes} />
+</Layout>
