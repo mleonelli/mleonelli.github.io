@@ -76,6 +76,13 @@
     ],
     "projects": [
         {
+            "imageUrl": "portfolio/supatlas.png",
+            "title": "Stand-up Atlas",
+            "type": "Project",
+            "link": "https://standupatlas.lovable.app",
+            "details": "A website to navigate English and Italian stand-up comedians through lineage"
+        },
+        {
             "imageUrl": "portfolio/garmin-daystoxmas.png",
             "title": "Garmin Data Field - Days To Xmas",
             "type": "Project",
