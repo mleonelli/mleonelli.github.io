@@ -76,6 +76,13 @@
     ],
     "projects": [
         {
+            "imageUrl": "portfolio/spinly.png",
+            "title": "Spinly",
+            "type": "Project",
+            "link": "https://spinly.it",
+            "details": "A decision picker, fortune wheel with advanced functionalities"
+        },
+        {
             "imageUrl": "portfolio/supatlas.png",
             "title": "Stand-up Atlas",
             "type": "Project",
