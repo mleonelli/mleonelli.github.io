@@ -7,5 +7,12 @@ import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
   site: "https://mauroleonelli.com",
-  integrations: [tailwind(), icon(), mdx(), sitemap()]
+  integrations: [
+    tailwind(), 
+    icon(), 
+    mdx(), 
+    sitemap({
+      customPages: ['https://mauroleonelli.com/Brick-Mosaic']
+    })
+  ]
 });
